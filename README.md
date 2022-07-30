@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Alejandro 👋
 
-<!--
-**alevarez/alevarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a learner, Developer, Guitarrist and Mentor!
 
-Here are some ideas to get you started:
+- 💻 You can find my projects here [portfolio]
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning NestJs
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about Typescript, Vue
+- 📫 How to reach me: ale.alvarez.email@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to use unknowing libraries!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[portfolio]: https://alejandroalverez.us
