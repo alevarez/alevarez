@@ -10,4 +10,4 @@
 - 📫 How to reach me: ale.alvarez.email@gmail.com
 - ⚡ Fun fact: I like to use unknowing libraries!!
 
-[portfolio]: https://alejandroalverez.us
+[portfolio]: https://alejandroalvarez.us
