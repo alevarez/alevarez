@@ -1,6 +1,6 @@
 ### Hi there, I'm Alejandro 👋
 
-## I'm a learner, Developer, Guitarrist and Mentor!
+## I'm a learner, Developer, Gamer and Mentor!
 
 - 💻 You can find my projects here [portfolio]
 - 🔭 I’m currently working on new graphQL Api
